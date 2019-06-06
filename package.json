@@ -1,0 +1,39 @@
+{
+  "name": "promiseya",
+  "version": "1.0.0",
+  "description": "Extend NodeJS Promise api with reusable functionality",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melontron/promiseya.git"
+  },
+  "keywords": [
+    "promise",
+    "promise-retry",
+    "retry",
+    "promie-map",
+    "map",
+    "fetch",
+    "object",
+    "promise-object",
+    "promise-all",
+    "all",
+    "silent",
+    "settle"
+  ],
+  "author": "Melik Karapetyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melontron/promiseya/issues"
+  },
+  "homepage": "https://github.com/melontron/promiseya#readme",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
+}
